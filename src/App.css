@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+p{
+  color: #333;
+}
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  background-image: url('assets/counter.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
